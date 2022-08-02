@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>reg.png</file>
+        <file>input.png</file>
+    </qresource>
+</RCC>
